@@ -14,12 +14,10 @@ Confusion Matrix
 
 ![image](https://user-images.githubusercontent.com/89599670/160196175-b15c00be-6a6f-4403-a09a-c705bc7d6904.png)
 
-![image](https://user-images.githubusercontent.com/89599670/160196303-494bac5c-35b8-4957-b501-05dcd9420cc3.png)
-
 Precision, Accuracy, Recall and others metrics
 
-![image](https://user-images.githubusercontent.com/89599670/160196712-92d57f55-a932-41de-ac3d-f536d4825543.png)
+![image](https://user-images.githubusercontent.com/89599670/160196303-494bac5c-35b8-4957-b501-05dcd9420cc3.png)
 
 Testing
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/89599670/160196712-92d57f55-a932-41de-ac3d-f536d4825543.png)
